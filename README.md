@@ -3,5 +3,5 @@ css3d
 
 CSS 3D transforms tests
 
-rd.html     :   Animated rhombic dodecahedron.
+rd.html     :   3D animated rhombic dodecahedron.
                     CSS transforms only; no javascript.
